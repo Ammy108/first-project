@@ -1,3 +1,21 @@
-box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  .subscribe {
+    margin: auto;
+    padding: 120px 0;
+    background-image: url(https://code.s3.yandex.net/web-code/images/00-zero/pixel-perfect/background.png);
+    background-repeat: no-repeat;
+    background-position: 680px;
+    background-size: 380px 472px;
+  }
+  
+  .subscribe-content {
+    border: 1px solid #000;
+    padding: 45px 470px 45px 45px;
+  }
+  .subscribe-title {
+    margin-bottom: 15px;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+  }

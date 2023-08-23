@@ -12,6 +12,7 @@
     padding: 45px 470px 45px 45px;
   }
   .subscribe-title {
+    flex: auto;
     margin-bottom: 15px;
     font-weight: 800;
     font-size: 25px;
